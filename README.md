@@ -6,4 +6,5 @@ Shafatullah
 # teacher is Shradhdha khapra 
 delta studdnet 
 # new projects
-this projects was created from l;ocal sysytem 
+this projects was created from local sysytem 
+created by md shafatullah
