@@ -7,4 +7,4 @@ Shafatullah
 delta studdnet 
 # new projects
 this projects was created from local sysytem 
-created by md shafatullah
+created by Md shafatullah
