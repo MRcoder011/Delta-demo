@@ -5,3 +5,5 @@ Shafatullah
 # student
 # teacher is Shradhdha khapra 
 delta studdnet 
+# new projects
+this projects was created from l;ocal sysytem 
